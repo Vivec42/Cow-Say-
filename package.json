@@ -1,0 +1,22 @@
+{
+  "name": "cowsay",
+  "version": "1.0.0",
+  "description": "Quest",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vivec42/Cow-Say-.git"
+  },
+  "author": "Quentin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivec42/Cow-Say-/issues"
+  },
+  "homepage": "https://github.com/Vivec42/Cow-Say-#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
