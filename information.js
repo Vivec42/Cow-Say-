@@ -4,3 +4,5 @@ const info = {
 };
 
 module.exports = info;
+
+// Sometime I dream about cheese.
